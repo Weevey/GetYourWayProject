@@ -43,7 +43,7 @@ build/
 hs_err_pid*
 
 # Apple created files
-.DS_Store
+*.DS_Store
 
 ### VS Code ###
 .vscode/
