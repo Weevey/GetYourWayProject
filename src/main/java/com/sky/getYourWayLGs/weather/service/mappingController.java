@@ -1,4 +1,4 @@
-package com.sky.getYourWayLGs.service;
+package com.sky.getYourWayLGs.weather.service;
 
 import org.springframework.web.bind.annotation.GetMapping;
 
